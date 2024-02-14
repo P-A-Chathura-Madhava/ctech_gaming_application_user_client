@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.signup_backgound_context {
+    left: 410px;
+}
